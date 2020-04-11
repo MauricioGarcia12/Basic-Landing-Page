@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(244, 247, 248);
+}
+.menu{
+    background-color: #1E3340;
+}
+.nav-link{
+    color: #BABDBF;
+}
+
+.nav-link:hover{
+    color: #70818C;
+}
+.navbar-brand{
+    color: #78BFB8;
+}
+.navbar-brand:hover{
+    color: rgb(166, 194, 191);
+}
+
+footer{
+    background-color:#BABDBF;
+}
+.btn-link{
+    text-decoration: none;
+    color: #1E3340;
+    font-size: 20px;
+}
+.iconos img{
+    border-radius: 15px;
+}
+.iconos:hover{
+    opacity: 70%;
+    transition: 1s ease;
+}
+.btn-link:hover{
+    text-decoration: none;
+    opacity: 60%;
+    color: rgb(10, 18, 22);
+
+}
+.card-title{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+.card-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.one{
+    font-size: 18px;
+}
+.card-body{
+    border-bottom: 1px solid rgb(194, 198, 201);
+    background-color: rgb(241, 240, 234);
+}
